@@ -1,7 +1,7 @@
 #  Internship Provider CodSoft- Python Programming Project
 
 
-# Contact Book Application
+#  Task 5 Contact Book Application
 This Python-based Contact Book Application allows users to manage contacts efficiently. The program stores contact details such as names, phone numbers, and email addresses in a JSON file. It provides functionality to add, view, delete, and search for contacts, with validation for phone numbers.
 
 
